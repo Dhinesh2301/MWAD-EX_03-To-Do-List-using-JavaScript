@@ -133,7 +133,7 @@ Upload to GitHub Pages for free hosting.
 
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/d09114a1-5435-4afa-9790-88cf25a176f5)
+![image](https://github.com/user-attachments/assets/16d6ef7f-5c29-4ad7-8ee0-5c0ad95f9b73)
 
 
 
